@@ -1,0 +1,17 @@
+timestamp_utc,source_ip,username,event_type,outcome,source_type,environment
+2026-10-31T19:20:52+00:00,127.0.0.1,alice_demo,login_attempt,success,local_lab,localhost_lab
+2026-10-31T19:20:53+00:00,127.0.0.1,root,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:53+00:00,127.0.0.1,root,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:54+00:00,127.0.0.1,admin_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:54+00:00,127.0.0.1,admin_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:55+00:00,127.0.0.1,admin_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:55+00:00,127.0.0.1,admin_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:56+00:00,127.0.0.1,admin_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:56+00:00,127.0.0.1,admin_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:56+00:00,127.0.0.1,alice_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:57+00:00,127.0.0.1,alice_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:57+00:00,127.0.0.1,alice_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:57+00:00,127.0.0.1,alice_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:58+00:00,127.0.0.1,alice_demo,login_attempt,failure,local_lab,localhost_lab
+2026-10-31T19:20:58+00:00,127.0.0.1,alice_demo,login_attempt,success,local_lab,localhost_lab
+2026-10-31T19:20:58+00:00,127.0.0.1,invalid_username,login_attempt,failure,local_lab,localhost_lab

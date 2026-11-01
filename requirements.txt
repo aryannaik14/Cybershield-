@@ -1,0 +1,7 @@
+# CyberShield - Python dependencies (all free and open source)
+# Python 3.10 or later is required.
+
+flask>=3.0,<4.0        # local demo login web app
+pandas>=2.0            # CSV loading, cleaning, time-window analysis
+numpy>=1.24            # random data generation for synthetic events
+pytest>=8.0            # automated tests

@@ -1,0 +1,7 @@
+alert_id,alert_time_utc,source_ip,username,attempt_count,window_start_utc,window_end_utc,window_minutes,threshold,severity,success_after_failures,alert_type,source_type,environment
+ALT-0001,2026-10-25T02:10:49+00:00,203.0.113.45,admin_demo,14,2026-10-25T02:10:00+00:00,2026-10-25T02:12:58+00:00,5,5,medium,no,brute_force_repeated_failures,synthetic,simulation
+ALT-0002,2026-10-27T03:21:12+00:00,198.51.100.77,bob_demo,8,2026-10-27T03:20:00+00:00,2026-10-27T03:22:15+00:00,5,5,high,yes,brute_force_repeated_failures,synthetic,simulation
+ALT-0003,2026-10-28T01:32:07+00:00,203.0.113.88,alice_demo,5,2026-10-28T01:30:00+00:00,2026-10-28T01:32:07+00:00,5,5,low,no,brute_force_repeated_failures,synthetic,simulation
+ALT-0004,2026-10-29T02:41:05+00:00,203.0.113.45,admin_demo,9,2026-10-29T02:40:00+00:00,2026-10-29T02:42:11+00:00,5,5,low,no,brute_force_repeated_failures,synthetic,simulation
+ALT-0005,2026-10-31T23:40:40+00:00,127.0.0.1,alice_demo,7,2026-10-31T23:40:12+00:00,2026-10-31T23:40:54+00:00,5,5,high,yes,brute_force_repeated_failures,local_lab,localhost_lab
+ALT-0006,2026-10-31T23:48:07+00:00,127.0.0.1,alice_demo,8,2026-10-31T23:47:42+00:00,2026-10-31T23:48:25+00:00,5,5,high,yes,brute_force_repeated_failures,local_lab,localhost_lab
